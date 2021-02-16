@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nectar.iml" filepath="$PROJECT_DIR$/.idea/modules/nectar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/nectar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/nectar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-66860761/nectar.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-66860761/nectar.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1283135088/nectar.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1283135088/nectar.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1188559500/nectar.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1188559500/nectar.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/214162937/nectar.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/214162937/nectar.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1036300625/nectar.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1036300625/nectar.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-227001810/nectar.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-227001810/nectar.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>

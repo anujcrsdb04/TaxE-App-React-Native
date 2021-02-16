@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c9b1c16-b578-4fbc-9de7-290abdaa46e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/fonts/Mulish-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/fonts/Mulish-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/fonts/Mulish-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/tabs/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/tabs/explore-search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/tabs/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/tabs/person.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/tabs/shop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/logo-colour.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/images/logo-colour.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prints/screen_01_onboarding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prints/screen_02_sign_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prints/screen_03_sign_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prints/screen_04_account_tab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/AccountListItem.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/helpers/Data.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/helpers/Data.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Onboarding.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/Onboarding.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/SignIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/SignIn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/SignUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/SignUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Tabs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/tabs/Account.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/tabs/Cart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/tabs/Explore.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/tabs/Favourite.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/tabs/Home.tsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_XL_API_28]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Ankush\Desktop\online-groceries-app\android\app\my-upload-key.keystore" />
+    <option name="KEY_ALIAS" value="my-key-alias" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1o4w8CRm3nKRmmU39fjJN10jHlx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="nectar.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="z5nfmrucxklnfakv" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-07T09:51:58.138Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Ankush\Desktop\online-groceries-app\android\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Pixel_4_XL_API_28&#10;z5nfmrucxklnfakv" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/my-upload-key.keystore" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="nectar.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c9b1c16-b578-4fbc-9de7-290abdaa46e7" name="Default Changelist" comment="" />
+      <created>1612559008583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612559008583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1612560293513">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1612560293513" />
+    <state width="1003" height="76" key="GridCell.Tab.0.bottom" timestamp="1613161830174">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1003" height="76" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1613161830174" />
+    <state width="1003" height="76" key="GridCell.Tab.0.center" timestamp="1613161830170">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1003" height="76" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1613161830170" />
+    <state width="1003" height="76" key="GridCell.Tab.0.left" timestamp="1613161830156">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1003" height="76" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1613161830156" />
+    <state width="1003" height="76" key="GridCell.Tab.0.right" timestamp="1613161830171">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1003" height="76" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1613161830171" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1612626280535">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1612626280535" />
+    <state x="343" y="154" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1612559825117">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="343" y="154" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1280.689@0.0.1280.689" timestamp="1612559825117" />
+  </component>
+</project>
